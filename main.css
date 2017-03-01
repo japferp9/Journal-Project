@@ -1,3 +1,7 @@
+global{
+
+}
+
 h1{
 color:red;
 font-family: verdana;
@@ -6,4 +10,9 @@ font-family: verdana;
 
 p{
 font-family: verdana;
+}
+
+nav_1{
+position: absolute;
+
 }
